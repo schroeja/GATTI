@@ -18,6 +18,6 @@ Anuradha: TestCast
 Kiki: afl - American Fuzzy Loop
 
 ## How can I contribute?
-Clone this repo, copy the templates/template.md file and then fill in information about your automated testing tool. Then [submit it as a Pull Request on GitHub](https://help.github.com/en/articles/creating-a-pull-request).
+Clone this repo, copy the templates/tool.md file and then fill in information about your automated testing tool. Then [submit it as a Pull Request on GitHub](https://help.github.com/en/articles/creating-a-pull-request).
 
 If you have troubles just email: robert _dot_ feldt __at__ gmail _dot_ com
