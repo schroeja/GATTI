@@ -7,15 +7,15 @@ We check automated testing tools and extract the key information to help you eva
 This inventory is a collective effort by students in the Model-based testing course at Chalmers/GU in the spring of 2019.
 
 ## Overview of tools
-Arjun: Appium (Mobile but w focus on Android)
-Supriya: Selenium (Web GUI testing)
-Tobias: Gauge (x-platform test automation w plugins)
-Ram: Cucumber (BDD)
-Shamala: SoapUI
-Rasti: PITest
-Vatsalya: TestComplete
-Anuradha: TestCast
-Kiki: afl - American Fuzzy Loop
+- Arjun: Appium (Mobile but w focus on Android)
+- Supriya: Selenium (Web GUI testing)
+- Tobias: Gauge (x-platform test automation w plugins)
+- Ram: Cucumber (BDD)
+- Shamala: SoapUI
+- Rasti: PITest
+- Vatsalya: TestComplete
+- Anuradha: TestCast
+- Kiki: afl - American Fuzzy Loop
 
 ## How can I contribute?
 Clone this repo, copy the templates/tool.md file and then fill in information about your automated testing tool. Then [submit it as a Pull Request on GitHub](https://help.github.com/en/articles/creating-a-pull-request).
