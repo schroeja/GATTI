@@ -7,6 +7,8 @@ We check automated testing tools and extract the key information to help you eva
 This inventory is a collective effort by students in the Model-based testing course at Chalmers/GU in the spring of 2019.
 
 ## Overview of tools
+
+### Currently being added
 - Arjun: Appium (Mobile but w focus on Android)
 - Supriya: Selenium (Web GUI testing)
 - Tobias: Gauge (x-platform test automation w plugins)
