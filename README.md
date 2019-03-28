@@ -18,6 +18,7 @@ This inventory is a collective effort by students in the Model-based testing cou
 - Vatsalya: TestComplete
 - Anuradha: TestCast
 - Kiki: afl - American Fuzzy Loop
+- Ephraim: Hypothesis
 
 ## How can I contribute?
 Clone this repo, copy the templates/tool.md file and then fill in information about your automated testing tool. Then [submit it as a Pull Request on GitHub](https://help.github.com/en/articles/creating-a-pull-request).
